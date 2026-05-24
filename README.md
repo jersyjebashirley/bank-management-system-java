@@ -22,3 +22,18 @@ A simple Bank Management System built using Java with OOP concepts.
 
 1. Compile the program:
 ```bash
+java Main
+
+---
+
+### 3. Push to GitHub
+
+If you already have Git installed:
+
+```bash
+git init
+git add .
+git commit -m "Added Bank Management System project"
+git branch -M main
+git remote add origin YOUR_GITHUB_REPO_LINK
+git push -u origin main
